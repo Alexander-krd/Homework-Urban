@@ -13,6 +13,6 @@ for a in numbers:
     if is_prime:
         primes.append(a)
     else: not_primes.append(a)
-print("Список:", numbers)
-print("Простые числа:", primes)
-print("Непростые числа:", not_primes)
+print("numbers:", numbers)
+print("primes:", primes)
+print("not primes:", not_primes)
